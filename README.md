@@ -1,8 +1,8 @@
-# BPM
+# BPM and App Prototype
 **Onboarding proess workflow**
 
 <b>
-<img src=(https://i.imgur.com/iK7wVHS.jpeg)> 
+<img src="https://i.imgur.com/iK7wVHS.jpeg"/> 
 </b>
 
 1. Welcome & Entry
@@ -27,15 +27,12 @@
 **Post-Verification**
   - Optional tutorial (user can "Skip Tutorial" to proceed to the dashboard).
   - Ends at Dashboard, the app’s main interface.
+  - Decision Points & Error Handling: Conditional checks at every critical step (e.g., "Valid Password?", "Email Verified?").
+  - Retry mechanisms for failed attempts (e.g., OTP, KYC document rejection).
+  - Support pathways (e.g., visit branch/contact support) for unresolved issues.
+  - User-Centric Features: Flexibility to link existing accounts or create new ones.
+  - Skip options (tutorial, highlights) to reduce friction.
+  - Clear error messaging and guided retries to enhance usability.
 
-**Decision Points & Error Handling:** Conditional checks at every critical step (e.g., "Valid Password?", "Email Verified?").
-
-**Retry mechanisms for failed attempts (e.g., OTP, KYC document rejection).**
-
-**Support pathways (e.g., visit branch/contact support) for unresolved issues.**
-
-**User-Centric Features:** Flexibility to link existing accounts or create new ones.
-
-**Skip options (tutorial, highlights) to reduce friction.**
-
-**Clear error messaging and guided retries to enhance usability.**
+6. Mobile App Prototype
+https://www.figma.com/proto/fTHkJb8xMiuU725jZrWksr/Mobile-Banking-App-Onboarding?node-id=24-460&p=f&t=V9o9kCKeHBKRZnF0-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=24%3A460

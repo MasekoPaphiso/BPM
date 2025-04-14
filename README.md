@@ -1,7 +1,9 @@
 # BPM
 **Onboarding proess workflow**
 
-<b>(https://i.imgur.com/iK7wVHS.jpeg) </b>
+<b>
+<img src=(https://i.imgur.com/iK7wVHS.jpeg)> 
+</b>
 
 1. Welcome & Entry
  - Includes language selection for accessibility.
